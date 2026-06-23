@@ -3,7 +3,7 @@
 # Hi, I'm Sourabh 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=3FCF8E&center=true&vCenter=true&width=560&lines=System+architect+%26+designer;Clean%2C+performant+web+experiences;Vibe+coder%2C+and+proud+of+it." alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=3FCF8E&center=true&vCenter=true&width=580&lines=System+architect+%26+designer;I+ship+the+schema+and+the+pixels;Clean%2C+fast%2C+production+web;Vibe+coder%2C+and+proud+of+it." alt="roles" />
 </a>
 
 <p>
@@ -16,22 +16,35 @@
   <img src="https://img.shields.io/badge/Gandhinagar,_Gujarat-0d1117?style=for-the-badge&logo=googlemaps&logoColor=3FCF8E" alt="Location" />
 </p>
 
+<i>I design and build production web platforms end to end — architecture, data model, performance, and the last pixel.</i>
+
 </div>
 
 ---
 
-### 🧭 What I do
+### 🏗️ How I build
 
-I design and build the whole stack — from the architecture and data model up to the
-last pixel. I care about the things users never see (fast queries, tight caching, clean
-boundaries) as much as the things they do.
+- **Schema first.** The database and its RLS policies are the source of truth — not the UI, not the API.
+- **Cache like the bill depends on it.** ISR, on-demand revalidation, and edge middleware keep pages instant and infra cheap.
+- **Performance is a feature.** Core Web Vitals and query latency are measured and budgeted, never guessed.
+- **One pair of hands.** I own the architecture *and* the design — fewer handoffs, tighter results.
+- **Vibe coder, and proud of it.** I lean on the tools, keep the judgment, and ship.
 
-```text
-Architecture-first  →  schema, boundaries, and invariants before features
-Performance & SEO   →  a discipline, not an afterthought
-Design + engineering →  same pair of hands
-Vibe coding         →  yes, and it ships
+### 🗺️ A system I run in production
+
+```mermaid
+flowchart LR
+    U(["Visitors"]) --> CDN["Cloudflare CDN"]
+    CDN --> APP["Next.js App Router<br/>RSC · ISR · edge middleware"]
+    APP -->|"RLS-guarded"| DB[("Postgres · Supabase")]
+    APP --> AUTH["Supabase Auth"]
+    APP --> R2[("Cloudflare R2<br/>assets · documents")]
+    APP --> SRCH["Search<br/>Postgres FTS · Pagefind"]
+    WK["Cloud Run worker<br/>document pipeline"] --> R2
+    WK --> DB
 ```
+
+<sub>A real, running stack: edge-cached pages, row-level-secured data, object storage, and a scale-to-zero worker for heavy jobs.</sub>
 
 ### 🧰 Stack I reach for
 
@@ -49,8 +62,9 @@ Vibe coding         →  yes, and it ships
 
 ### 🛠️ What I'm building
 
-A **forensic-science journal, community, and library** on the web — the kind of place
-the field doesn't have yet. Architecture, content, design, and performance, end to end.
+A **forensic-science journal, community, and library** on the web — a layered platform
+(content, community, library, authority) built to scale to a million readers. End to end:
+schema and RLS, editorial tooling, search, performance, and design.
 
 ---
 
