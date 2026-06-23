@@ -1,51 +1,61 @@
-<h1 align="center">Hi, I'm Sourabh 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>System architect &amp; designer</b> crafting clean, performant web experiences.<br/>
-  Vibe coder, and proud of it.
-</p>
+# Hi, I'm Sourabh 👋
 
-<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=3FCF8E&center=true&vCenter=true&width=560&lines=System+architect+%26+designer;Clean%2C+performant+web+experiences;Vibe+coder%2C+and+proud+of+it." alt="roles" />
+</a>
+
+<p>
   <a href="https://sourabhyadav.com">
-    <img src="https://img.shields.io/badge/Portfolio-sourabhyadav.com-0a0a0a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-sourabhyadav.com-3FCF8E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" />
   </a>
   <a href="https://instagram.com/sooourabh_">
-    <img src="https://img.shields.io/badge/Instagram-@sooourabh__-0a0a0a?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/@sooourabh__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
   </a>
-  <img src="https://img.shields.io/badge/Gandhinagar,_Gujarat-0a0a0a?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Gandhinagar,_Gujarat-0d1117?style=for-the-badge&logo=googlemaps&logoColor=3FCF8E" alt="Location" />
 </p>
+
+</div>
 
 ---
 
-### What I do
+### 🧭 What I do
 
 I design and build the whole stack — from the architecture and data model up to the
 last pixel. I care about the things users never see (fast queries, tight caching, clean
-boundaries) as much as the things they do. Lately I'm building a forensic-science
-journal, community, and library on the web.
+boundaries) as much as the things they do.
 
-- 🧱 Architecture-first: schema, boundaries, and invariants before features
-- ⚡ Performance &amp; SEO as a discipline, not an afterthought
-- 🎨 Design and engineering in the same pair of hands
-- 🤖 Yes, I vibe code — and I ship
+```text
+Architecture-first  →  schema, boundaries, and invariants before features
+Performance & SEO   →  a discipline, not an afterthought
+Design + engineering →  same pair of hands
+Vibe coding         →  yes, and it ships
+```
 
-### Stack I reach for
+### 🧰 Stack I reach for
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <br/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
-### A little further down
+### 🛠️ What I'm building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sooruu&show_icons=true&count_private=true&hide_border=true&theme=dark&title_color=ffffff&icon_color=3FCF8E&text_color=9f9f9f&bg_color=0d1117" alt="Sourabh's GitHub stats" height="165" />
-</p>
+A **forensic-science journal, community, and library** on the web — the kind of place
+the field doesn't have yet. Architecture, content, design, and performance, end to end.
 
-<p align="center"><sub>Most of my work lives in private repos — the graph is quieter than the keyboard.</sub></p>
+---
+
+<div align="center">
+  <sub>Most of my work lives in private repos — the graph is quieter than the keyboard.</sub>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=sooruu&style=flat-square&color=3FCF8E&label=Profile+views" alt="profile views" />
+</div>
