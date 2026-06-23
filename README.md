@@ -66,6 +66,14 @@ A **forensic-science journal, community, and library** on the web — a layered 
 (content, community, library, authority) built to scale to a million readers. End to end:
 schema and RLS, editorial tooling, search, performance, and design.
 
+> 🔭 **Currently:** pushing the platform's edge performance and SEO authority toward its first big traffic milestone.
+
+### 📈 Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sooruu&theme=dark&hide_border=true&background=0d1117&stroke=3FCF8E&ring=3FCF8E&fire=3FCF8E&currStreakLabel=3FCF8E&sideLabels=9f9f9f&dates=6b6b6b&currStreakNum=ffffff&sideNums=ffffff" alt="contribution streak" />
+</div>
+
 ---
 
 <div align="center">
