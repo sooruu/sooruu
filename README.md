@@ -46,25 +46,44 @@ flowchart LR
 
 <sub>A real, running stack: edge-cached pages, row-level-secured data, object storage, and a scale-to-zero worker for heavy jobs.</sub>
 
-### 🧰 Stack I reach for
+### 🧰 Stack
 
 <p>
+  <b>Languages</b><br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+<p>
+  <b>Frontend</b><br/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <br/>
+</p>
+<p>
+  <b>Backend &amp; data</b><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+<p>
+  <b>Infra &amp; delivery</b><br/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### 🛠️ What I'm building
+### 🛠️ What I build
 
-A **forensic-science journal, community, and library** on the web — a layered platform
-(content, community, library, authority) built to scale to a million readers. End to end:
-schema and RLS, editorial tooling, search, performance, and design.
+Whatever the problem actually needs — **web apps, mobile apps, APIs, real-time systems,**
+and the infrastructure beneath them. I work the full line: data model and backend
+services, frontend, and the deployment pipeline that ships it. New stack, new domain, no
+problem — the fundamentals carry over.
+
+**Flagship right now —** a **forensic-science journal, community, and library**: a layered
+platform (content · community · library · authority) built to scale to a million readers,
+end to end from RLS schema and editorial tooling to search and edge performance.
 
 > 🔭 **Currently:** pushing the platform's edge performance and SEO authority toward its first big traffic milestone.
 
